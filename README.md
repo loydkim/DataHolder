@@ -12,6 +12,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/KRjDPniq9Qw
-- Blog post link : http://devloydkim.blogspot.ca/2017/06/objective-c-save-data-as-persistence.html
+- Blog post link : https://loydioslab.blogspot.ca/2017/06/objective-c-save-data-as-persistence.html
 
 Thank you :)
